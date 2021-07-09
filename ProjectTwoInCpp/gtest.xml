@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="0" errors="0" time="1.521" timestamp="2021-05-11T23:01:28" name="AllTests">
+  <testsuite name="max_subarray_exh_SmallCases" tests="1" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-05-11T23:01:28">
+    <testcase name="max_subarray_exh_SmallCases" status="run" result="completed" time="0.001" timestamp="2021-05-11T23:01:28" classname="max_subarray_exh_SmallCases" />
+  </testsuite>
+  <testsuite name="max_subarray_exh_LargeCases" tests="1" failures="0" disabled="0" errors="0" time="1.028" timestamp="2021-05-11T23:01:28">
+    <testcase name="max_subarray_exh_LargeCases" status="run" result="completed" time="1.028" timestamp="2021-05-11T23:01:28" classname="max_subarray_exh_LargeCases" />
+  </testsuite>
+  <testsuite name="max_subarray_dbh_SmallCases" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-05-11T23:01:29">
+    <testcase name="max_subarray_dbh_SmallCases" status="run" result="completed" time="0" timestamp="2021-05-11T23:01:29" classname="max_subarray_dbh_SmallCases" />
+  </testsuite>
+  <testsuite name="max_subarray_dbh_LargeCases" tests="1" failures="0" disabled="0" errors="0" time="0.491" timestamp="2021-05-11T23:01:29">
+    <testcase name="max_subarray_dbh_LargeCases" status="run" result="completed" time="0.491" timestamp="2021-05-11T23:01:29" classname="max_subarray_dbh_LargeCases" />
+  </testsuite>
+  <testsuite name="subset_sum_exh" tests="1" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-05-11T23:01:30">
+    <testcase name="subset_sum_exh" status="run" result="completed" time="0.001" timestamp="2021-05-11T23:01:30" classname="subset_sum_exh" />
+  </testsuite>
+</testsuites>
